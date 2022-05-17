@@ -1,9 +1,9 @@
 # MAKING AN NFT COLLECTION
 # Project Description 
-My goal is to write code that will help me launch an NFT collection of 10,000 images. I will be designing all the art/layers for the project and hopefully releasing it once it's done.
+My goal is to write code that will help me launch an NFT collection of various auto generated images/artworks. I will be designing all the art/layers for the project and hopefully releasing it once it's done.
 # Software
-I will be coding using Javascript to create the final images for the collection. I may or may not also need to learn some Solidity which is the language used to code smart contracts on the Ethereum network.
+I coded using Javascript to create the final images for the collection.
 # Current Progress
-Currently, I'm working on creating the art layers and brainstorming about possible traits. Also will be making a walkthrough video soon.
+I'm finished with the project and decided on a final number of 100 images.
 # Artist/Creator
 Jacob Grimm
